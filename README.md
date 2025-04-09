@@ -26,7 +26,6 @@ Flashcard Generator is a web application that allows users to create, manage, an
 - [Tech Stack](#tech-stack)
 - [Build Process](#build-process)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -76,6 +75,3 @@ $ npm start
 
 Distributed under the MIT License. See [LICENSE.txt](./LICENSE.txt) for more information.
 
-## Acknowledgements
-
-We would like to thank the contributors to this project for their valuable contributions.
